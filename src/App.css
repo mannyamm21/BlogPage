@@ -1,0 +1,10 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url('../pexels-8moments-1323550.jpg'); /* Adjust the path to your image */
+  background-size: cover; /* Set background image size to cover the entire viewport */
+  background-attachment: fixed; /* Set background image to fixed so it doesn't scroll with content */
+  
+}
+
